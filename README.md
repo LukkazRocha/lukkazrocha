@@ -21,8 +21,8 @@
   ##
   
   <div align="center">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=lukkazrocha&theme=tokyonight&locale=pt-br"/>
-  </div>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=lukkazrocha&theme=tokyonight"/>
+  </div>  
   
   ##
 
